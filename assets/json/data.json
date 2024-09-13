@@ -1,0 +1,32 @@
+[
+    {
+        "name": "infinix",
+        "image": "assets/images/img1.jpg",
+        "price": 45000,
+        "description": "dvhfjvsdhfbshj"
+    },
+    {
+        "name": "oppo",
+        "image": "assets/images/img2.jpg",
+        "price": 45000,
+        "description": "dvhfjvsdhfbshj"
+    },
+    {
+        "name": "infinix",
+        "image": "assets/images/img3.jpg",
+        "price": 45000,
+        "description": "dvhfjvsdhfbshj"
+    },
+    {
+        "name": "vivo",
+        "image": "assets/images/img4.jpg",
+        "price": 45000,
+        "description": "dvhfjvsdhfbshj"
+    },
+    {
+        "name": "oppo last",
+        "image": "assets/images/img5.jpg",
+        "price": 45000,
+        "description": "dvhfjvsdhfbshj"
+    }
+]
